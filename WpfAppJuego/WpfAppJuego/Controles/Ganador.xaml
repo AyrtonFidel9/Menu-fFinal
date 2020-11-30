@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="WpfAppJuego.Controles.Ganador"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfAppJuego.Controles"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="726.744" >
+    <Grid Margin="0,142,0,138" Height="184">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#E50832A2" Offset="0"/>
+                <GradientStop Color="#E5003474" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="130,21,0,0" TextWrapping="Wrap" Text="Felicidades ¡Has ganado!" VerticalAlignment="Top" FontSize="40" FontFamily="/WpfAppJuego;component/Fonts/#Fredoka One" Foreground="White"/>
+        <TextBlock x:Name="Reiniciar" HorizontalAlignment="Left" Margin="279,90,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="60" Height="63">
+            <iconPacks:PackIconModern x:Name="txtReiniciar" Kind="Redo" RenderTransformOrigin="0.5,0.5" Width="57" Height="60" MouseLeftButtonDown="PackIconModern_MouseLeftButtonDown" >
+                <iconPacks:PackIconModern.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </iconPacks:PackIconModern.RenderTransform></iconPacks:PackIconModern>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="379,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" MouseLeftButtonDown="TextBlock_MouseLeftButtonDown" Height="69" Width="63"><InlineUIContainer>
+                <iconPacks:PackIconBoxIcons Kind="RegularExit" Height="74" Width="62"/>
+            </InlineUIContainer></TextBlock>
+    </Grid>
+</UserControl>

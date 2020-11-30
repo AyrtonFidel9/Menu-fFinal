@@ -1,0 +1,84 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\App.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.CopyComplete
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppCompra\WpfAppCompra\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindowCompra.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindowCompra.baml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.g.cs
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe.config
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.exe
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\WpfAppCompra.pdb
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\Dialogs\compra.baml
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.g.resources
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\WpfAppCompra.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindowCompra.g.cs
+C:\Users\fideb\OneDrive\Desktop\WpfAppCompra\WpfAppCompra\obj\Debug\MainWindowCompra.baml

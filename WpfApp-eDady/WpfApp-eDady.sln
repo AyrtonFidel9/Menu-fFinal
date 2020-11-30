@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp-eDady", "WpfApp-eDady\WpfApp-eDady.csproj", "{DEFDABBE-B3E0-43F6-BD3F-CC83F12D2FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFDABBE-B3E0-43F6-BD3F-CC83F12D2FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFDABBE-B3E0-43F6-BD3F-CC83F12D2FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFDABBE-B3E0-43F6-BD3F-CC83F12D2FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFDABBE-B3E0-43F6-BD3F-CC83F12D2FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA192D78-F43C-4CB6-8D6A-6EF64C6744AF}
+	EndGlobalSection
+EndGlobal

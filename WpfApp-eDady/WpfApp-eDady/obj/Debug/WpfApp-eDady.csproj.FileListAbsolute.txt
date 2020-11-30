@@ -1,0 +1,36 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\winApellido.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\winApellido.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp_eDady.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\winSaldudo.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfApp-eDady\WpfApp-eDady\obj\Debug\winSaldudo.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\bin\Debug\WpfApp-eDady.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\winApellido.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\winSaldudo.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\winApellido.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\winSaldudo.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp_eDady.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfApp-eDady\WpfApp-eDady\obj\Debug\WpfApp-eDady.pdb

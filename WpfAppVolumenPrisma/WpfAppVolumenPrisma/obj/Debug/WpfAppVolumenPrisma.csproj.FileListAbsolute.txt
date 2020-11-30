@@ -1,0 +1,64 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\App.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csproj.CopyComplete
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\WpfAppVolumenPrisma.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppVolumenPrisma\WpfAppVolumenPrisma\obj\Debug\WpfAppVolumenPrisma.exe

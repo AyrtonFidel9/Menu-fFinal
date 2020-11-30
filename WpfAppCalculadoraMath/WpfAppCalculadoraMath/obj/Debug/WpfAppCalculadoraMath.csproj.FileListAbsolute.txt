@@ -1,0 +1,50 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\App.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csproj.CopyComplete
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\WpfAppCalculadoraMath.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppCalculadoraMath\WpfAppCalculadoraMath\obj\Debug\WpfAppCalculadoraMath.pdb

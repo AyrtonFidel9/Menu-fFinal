@@ -1,0 +1,25 @@
+﻿<mah:MetroWindow x:Class="WpfAppSerie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppSerie"
+        mc:Ignorable="d"
+        Title="Serie" Height="406.5" Width="473" ResizeMode="CanMinimize"
+                 WindowStartupLocation="CenterScreen" GlowBrush="{DynamicResource MahApps.Brushes.Accent}">
+    <Grid>
+        <GroupBox Header="Datos" HorizontalAlignment="Left" Height="100" Margin="25,25,0,0" VerticalAlignment="Top" Width="413"/>
+
+        <TextBlock x:Name="txtBIngrese" HorizontalAlignment="Left" Margin="50,74,0,0" TextWrapping="Wrap" Text="Ingrese el N elemento a producir" VerticalAlignment="Top" FontFamily="/WpfAppSerie;component/Fonts/#Nunito SemiBold" FontSize="17" Height="25"/>
+        <TextBox x:Name="txtNumero" HorizontalAlignment="Left" Height="23" Margin="311,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103" KeyDown="txtNumero_KeyDown" FontFamily="/WpfAppSerie;component/Fonts/#Nunito" FontSize="14" TextAlignment="Center"/>
+        <TextBlock x:Name="txtBTitRes" HorizontalAlignment="Left" Margin="44,167,0,0" TextWrapping="Wrap" Text="El valor de la serie es: " VerticalAlignment="Top" Width="228" FontFamily="/WpfAppSerie;component/Fonts/#Nunito SemiBold" FontSize="17"/>
+        <TextBlock x:Name="txtBRespuesta" HorizontalAlignment="Left" Margin="264,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174" Height="23" FontSize="17" FontFamily="/WpfAppSerie;component/Fonts/#Nunito ExtraBold"/>
+        <Image Margin="25,257,27,10" Source="Image1.png" Stretch="Fill"/>
+        <Button x:Name="btnCalcular"  Content="Calcular"  HorizontalAlignment="Left" Margin="161,218,0,0" VerticalAlignment="Top" Width="150" FontFamily="/WpfAppSerie;component/Fonts/#Nunito Black" FontSize="15"
+                Style="{StaticResource MahApps.Styles.Button.Square.Accent}" Click="btnCalcular_Click" MouseEnter="btnCalcular_MouseEnter" MouseLeave="btnCalcular_MouseLeave">
+
+        </Button>
+
+    </Grid>
+</mah:MetroWindow>

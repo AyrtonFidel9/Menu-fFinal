@@ -1,0 +1,64 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas-en-Clase\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\App.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csproj.CopyComplete
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\WpfAppInterfazVoz.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppInterfazVoz\WpfAppInterfazVoz\obj\Debug\WpfAppInterfazVoz.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppVolumenPrisma", "WpfAppVolumenPrisma\WpfAppVolumenPrisma.csproj", "{27D02193-E3AA-4708-8856-74078CDF148C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D02193-E3AA-4708-8856-74078CDF148C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D02193-E3AA-4708-8856-74078CDF148C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D02193-E3AA-4708-8856-74078CDF148C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D02193-E3AA-4708-8856-74078CDF148C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C2522F-E90B-4A40-96D7-9EBFDB4F6F5E}
+	EndGlobalSection
+EndGlobal

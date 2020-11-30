@@ -1,0 +1,162 @@
+﻿<mah:MetroWindow x:Name="mwPrincipal" x:Class="WpfAppEditorTexto.MainWindow"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppEditorTexto"
+        
+        mc:Ignorable="d"
+        Title="Editor de texto" Height="588.5" Width="627">
+    <mah:MetroWindow.Resources>
+        <ResourceDictionary>
+           
+            <!--<Style x:Key="LinkButtonStyle" TargetType="{x:Type Button}" BasedOn="{StaticResource MahApps.Styles.Button.WindowCommands}">
+                <Setter Property="Padding" Value="0" />
+                <Setter Property="Cursor" Value="Hand" />
+                <Setter Property="Opacity" Value="1" />
+            </Style>-->
+
+            <!--<Style x:Key="UnderlinedTextBlockStyle" TargetType="{x:Type TextBlock}" BasedOn="{StaticResource {x:Type TextBlock}}">
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="TextDecorations" Value="Underline" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>-->
+            <Style x:Key="Acme">
+                <Setter Property="TextElement.FontFamily" Value="/Fonts/Acme-Regular.ttf"></Setter>
+            </Style>
+            <Style x:Key="lobster">
+                <Setter Property="TextElement.FontFamily" Value="/Fonts/Lobster-Regular.ttf"></Setter>
+            </Style>
+            <Style x:Key="OpenSans">
+                <Setter Property="TextElement.FontFamily" Value="/Fonts/OpenSans-Regular.ttf"></Setter>
+            </Style>
+            <Style x:Key="PassionOne">
+                <Setter Property="TextElement.FontFamily" Value="/Fonts/PassionOne-Regular.ttf"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </mah:MetroWindow.Resources>
+
+
+    <Grid Margin="0,0,-5,0">
+        <Grid x:Name="grPropiedades" Height="112" Margin="32,48,36,0" VerticalAlignment="Top">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#A0E2E2E2" Offset="0"/>
+                    <GradientStop Color="#F4F9F9F9" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Button x:Name="btnNegrita"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="140,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnNegrita_Click">
+                <iconPacks:PackIconModern Width="20" Height="20" Kind="TextBold"></iconPacks:PackIconModern>
+            </Button>
+            <Button x:Name="btnCortar" Margin="72,63,0,0" VerticalAlignment="Top" Height="38" HorizontalAlignment="Left" Width="38" Click="btnCortar_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="Scissors"></iconPacks:BootstrapIcons>
+            </Button>
+            <Button  x:Name="btnCopiar"   HorizontalAlignment="Left" Margin="20,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnCopiar_Click">
+
+                <iconPacks:Ionicons Width="20" Height="20" Kind="CopyiOS"></iconPacks:Ionicons>
+            </Button>
+
+            <Button x:Name="btnPegar"   HorizontalAlignment="Left" Margin="20,15,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnPegar_Click" >
+                <iconPacks:Ionicons Width="20" Height="20" Kind="ClipboardMD"></iconPacks:Ionicons>
+            </Button>
+            <Button x:Name="btnCursiva"   HorizontalAlignment="Left" Margin="193,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnCursiva_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="TypeItalic"></iconPacks:BootstrapIcons>
+            </Button>
+            
+            <mah:DropDownButton  
+                                x:Name="tipoLetra" Height="38" Margin="140,15,0,0" VerticalAlignment="Top" 
+                                HorizontalAlignment="Left" Width="143"
+>
+
+                <mah:DropDownButton.Items>
+                    <TextBlock x:Name="txtAcme" Text="Acme" FontFamily="/WpfAppEditorTexto;component/Fonts/#Acme" FontSize="17" MouseDown="txtAcme_MouseDown"></TextBlock>
+                    <TextBlock x:Name="txtLobster"  Text="Lobster" FontFamily="/WpfAppEditorTexto;component/Fonts/#Lobster" MouseDown="txtLobster_MouseDown"/>
+                    <TextBlock x:Name="txtOpenSans" Text="Open Sans" FontFamily="/WpfAppEditorTexto;component/Fonts/#Open Sans" MouseDown="txtOpenSans_MouseDown" />
+                    <TextBlock x:Name="txtPassion" Text="Passion One" FontFamily="/WpfAppEditorTexto;component/Fonts/#Passion One" MouseDown="txtPassion_MouseDown" />
+                    <TextBlock x:Name="txtDefecto" Text="Por Defecto" FontSize="17" MouseDown="txtDefecto_MouseDown"/>
+                </mah:DropDownButton.Items>
+                <mah:DropDownButton.ItemContainerStyle>
+                    <Style BasedOn="{StaticResource {x:Type MenuItem}}" TargetType="{x:Type MenuItem}">
+                        <Setter Property="Command" Value="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type mah:DropDownButton}}, Path=DataContext.GenreDropDownMenuItemCommand}" />
+                        <Setter Property="CommandParameter" Value="{Binding Name}" />
+                    </Style>
+                </mah:DropDownButton.ItemContainerStyle>
+                <mah:DropDownButton.Icon>
+                    <iconPacks:BootstrapIcons Width="20" Height="20" Kind="Fonts"></iconPacks:BootstrapIcons>
+                </mah:DropDownButton.Icon>
+            </mah:DropDownButton>
+            
+            <Button x:Name="btnUnderline"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="245,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnUnderline_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="TypeUnderline"></iconPacks:BootstrapIcons>
+            </Button>
+            <Button x:Name="btnAumentarTamanio"   HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="293,63,0,0" VerticalAlignment="Top" Width="38" Height="38" RenderTransformOrigin="0.5,0.5" Click="btnAumentarTamanio_Click">
+                <iconPacks:BoxIcons Width="20" Height="16" Kind="RegularFontSize"></iconPacks:BoxIcons>
+            </Button>
+            <Button x:Name="btnDisminuir" HorizontalContentAlignment="Center"  HorizontalAlignment="Left" Margin="337,63,0,0" VerticalAlignment="Top" Width="38" Height="38" RenderTransformOrigin="0.5,0.5" Click="btnDisminuir_Click">
+                <iconPacks:BoxIcons Width="12" Height="15" Kind="RegularFontSize"></iconPacks:BoxIcons>
+            </Button>
+            <mah:DropDownButton x:Name="drpTamanio" Content="" Height="38" Margin="293,15,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="82">
+                <mah:DropDownButton.Items>
+                    <TextBlock Text="2" MouseDown="TextBlock_MouseDown"/>
+                    <TextBlock x:Name="cuatro"  Text="4" MouseDown="TextBlock_MouseDown_1"/>
+                    <TextBlock x:Name="seis" Text="6" MouseDown="seis_MouseDown"/>
+                    <TextBlock x:Name="ocho" Text="8" MouseDown="ocho_MouseDown"/>
+                    <TextBlock x:Name="diez" Text="10" MouseDown="diez_MouseDown"/>
+                    <TextBlock x:Name="doce" Text="12" MouseDown="doce_MouseDown"/>
+                    <TextBlock x:Name="catorce" Text="14" MouseDown="catorce_MouseDown"/>
+                    <TextBlock x:Name="dieciseis" Text="16" MouseDown="dieciseis_MouseDown"/>
+                    <TextBlock x:Name="dieziocho" Text="18" MouseDown="dieziocho_MouseDown"/>
+                    <TextBlock x:Name="veinte" Text="20" MouseDown="veinte_MouseDown"/>
+                    <TextBlock x:Name="veinteCuatro" Text="24" MouseDown="veinteCuatro_MouseDown"/>
+                    <TextBlock x:Name="veinteOcho" Text="28" MouseDown="veinteOcho_MouseDown"/>
+                    <TextBlock x:Name="treintados" Text="32" MouseDown="treintados_MouseDown"/>
+                </mah:DropDownButton.Items>
+            </mah:DropDownButton>
+            <Button x:Name="txtLeft"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="400,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="txtLeft_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="JustifyLeft"></iconPacks:BootstrapIcons>
+            </Button>
+            <Button x:Name="btnJustificar"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="448,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="btnJustificar_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="Justify"></iconPacks:BootstrapIcons>
+            </Button>
+            <Button  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="496,63,0,0" VerticalAlignment="Top" Width="38" Height="38" Click="Button_Click">
+                <iconPacks:BootstrapIcons Width="20" Height="20" Kind="JustifyRight"></iconPacks:BootstrapIcons>
+            </Button>
+            <Button x:Name="btnColor"  HorizontalContentAlignment="Center" Margin="496,15,0,0" VerticalAlignment="Top" Height="38" HorizontalAlignment="Left" Width="38" Click="btnColor_Click">
+                <iconPacks:BoxIcons Width="20" Height="20" Kind="RegularFontColor"></iconPacks:BoxIcons>
+            </Button>
+            <mah:Badged x:Name="vistoBueno" Badge="" Margin="0,63,505,44"/>
+            <Button x:Name="btnGuardar" HorizontalAlignment="Left" Margin="400,15,0,0" VerticalAlignment="Top" Width="86" Height="38" Click="btnGuardar_Click_1">
+                <iconPacks:BootstrapIcons Height="20" Width="20" Kind="FolderFill"></iconPacks:BootstrapIcons>
+            </Button>
+        </Grid>
+        <WrapPanel x:Name="mnMENU_General" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="619">
+            <Menu>
+                <MenuItem x:Name="mnArchivo" VerticalContentAlignment="Center" 
+                          VerticalAlignment="Center" Header="   Archivo" Height="30" Width="82">
+                    <MenuItem Header="_Abrir" Name="mnAbrir" Click="mnAbrir_Click"></MenuItem>
+                    <MenuItem Header="_Cerrar" Name="mnCerrar" Click="mnCerrar_Click"></MenuItem>
+                    <MenuItem Header="_Salir" Name="mnSalir" Click="mnSalir_Click"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="   Opciones" Width="95">
+                    <MenuItem Checked="Bold_Checked" Unchecked="Bold_Unchecked" Header="_Activar modo oscuro" x:Name="mododark" Click="MenuItem_Click"></MenuItem>
+                </MenuItem>
+            </Menu>
+        </WrapPanel>
+
+        <Grid Margin="32,186,36,27">
+            <RichTextBox x:Name="rchCaja" Padding="0" MouseMove="rchCaja_MouseMove" 
+                         FontSize="14" Block.TextAlignment="Center">
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text=""/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+        </Grid>
+
+    </Grid>
+</mah:MetroWindow>

@@ -1,0 +1,50 @@
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.exe.config
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie_MarkupCompile.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie_MarkupCompile.lref
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.g.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.Properties.Resources.resources
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csproj.CopyComplete
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.exe
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.pdb
+C:\Users\fideb\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\QUINTO SEMESTRE\Aplicaciones Informáticas I\Programas\WpfAppSerie\WpfAppSerie\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.exe.config
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\WpfAppSerie.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\ControlzEx.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\MahApps.Metro.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csprojAssemblyReference.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\MainWindow.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\App.g.cs
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie_MarkupCompile.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie_MarkupCompile.lref
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\App.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\MainWindow.baml
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.g.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.Properties.Resources.resources
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csproj.GenerateResource.cache
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.csproj.CopyComplete
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.exe
+C:\Users\fideb\OneDrive\Desktop\Union-Menu\WpfAppSerie\WpfAppSerie\obj\Debug\WpfAppSerie.pdb

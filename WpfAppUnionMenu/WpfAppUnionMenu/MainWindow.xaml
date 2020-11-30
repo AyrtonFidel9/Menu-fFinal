@@ -1,0 +1,142 @@
+﻿<mah:MetroWindow x:Class="WpfAppUnionMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:WpfAppUnionMenu"
+        mc:Ignorable="d"
+        Title="Programas" Height="560" Width="757.5" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" >
+    <Grid>
+        <Grid Margin="28,20,27,380" >
+            <Grid.Background>
+                <ImageBrush ImageSource="Images/paisaje.jpg" Stretch="UniformToFill"/>
+            </Grid.Background>
+            <Button x:Name="btnSalir"  HorizontalAlignment="Left" Margin="625,6,0,0" VerticalAlignment="Top" Width="62" Height="58" 
+                    RenderTransformOrigin="0.613,0.44" Style="{DynamicResource MahApps.Styles.Button.Circle}" 
+                    Background="White" BorderThickness="2" BorderBrush="#FF11FFDE" Click="btnSalir_Click">
+                <iconPacks:BootstrapIcons Kind="Power" Height="50" Width="30"></iconPacks:BootstrapIcons>
+            </Button>
+            <TextBlock x:Name="txtBReloj" Margin="563,82,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Foreground="White" FontSize="30" FontFamily="/WpfAppUnionMenu;component/Fonts/#Fira Sans" FontWeight="Bold" Height="44"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,11,0,0" TextWrapping="Wrap" Text="¡Buenos días!" VerticalAlignment="Top" FontSize="35" FontFamily="/WpfAppUnionMenu;component/Fonts/#Fira Sans Medium"/>
+
+
+
+        </Grid>
+        <ScrollViewer BorderThickness="5" HorizontalAlignment="Left" Height="334" Margin="28,168,0,0"  VerticalAlignment="Top" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Hidden" Width="697">
+            <ScrollViewer.Background>
+                <ImageBrush ImageSource="Images/fondo4.jpg" TileMode="FlipY"/>
+            </ScrollViewer.Background>
+            <Grid Width="918">
+                <mah:Tile x:Name="tlPiramide" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" Width="237" Height="131" Click="tlPiramide_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFC5008F" Offset="0.004"/>
+                            <GradientStop Color="#FFA40077" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:PackIconRPGAwesome Kind="Pyramids" Width="100" Height="100"></iconPacks:PackIconRPGAwesome>
+                </mah:Tile>
+                <mah:Tile x:Name="tlSaludar"  HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Width="237" Click="tlSaludar_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <LinearGradientBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                    <SkewTransform AngleX="-1.5" CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </LinearGradientBrush.RelativeTransform>
+                            <GradientStop Color="#FF979797" Offset="0"/>
+                            <GradientStop Color="#FF5B5050" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:PackIconRPGAwesome Kind="HandEmblem" Height="100" Width="100" ></iconPacks:PackIconRPGAwesome>
+                </mah:Tile>
+                <mah:Tile x:Name="tlJuego" HorizontalAlignment="Left" Margin="266,14,0,0" VerticalAlignment="Top" Width="135" Height="131" Click="tlJuego_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Red"/>
+                            <GradientStop Color="#FF970A0A" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="Controller" Height="100" Width="80" ></iconPacks:BootstrapIcons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlVoz" HorizontalAlignment="Left" Margin="420,14,0,0" VerticalAlignment="Top" Width="151" Height="57" Click="tlVoz_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF084BFF" Offset="0"/>
+                            <GradientStop Color="#FF0031B4" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="MicFill" Height="40" Width="50" ></iconPacks:BootstrapIcons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlCompra" HorizontalAlignment="Left" Margin="266,165,0,0" VerticalAlignment="Top" Width="305" Height="140" Click="tlCompra_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                            <LinearGradientBrush.RelativeTransform>
+                                <TransformGroup>
+                                    <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                    <SkewTransform AngleX="-1.2" CenterY="0.5" CenterX="0.5"/>
+                                    <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </LinearGradientBrush.RelativeTransform>
+                            <GradientStop Color="#FFF34BEC"/>
+                            <GradientStop Color="#FF168B97" Offset="1"/>
+                            <GradientStop Color="#FFA550B0" Offset="0.35"/>
+                            <GradientStop Color="#FF3A7A9E" Offset="0.625"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="Cart2" Height="100" Width="80"></iconPacks:BootstrapIcons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlCalculadora" HorizontalAlignment="Left" Margin="419,88,0,0" VerticalAlignment="Top" Width="151" Height="57" Click="tlCalculadora_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFDCBE00" Offset="1"/>
+                            <GradientStop Color="#FFEECD00"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="CalculatorFill" Height="50" Width="30"></iconPacks:BootstrapIcons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlEditorTexto" HorizontalAlignment="Left" Margin="589,165,0,12" Width="139" Height="Auto" Click="tlEditorTexto_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFFF8000" Offset="0"/>
+                            <GradientStop Color="#FFFFB900" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="JournalBookmarkFill" Height="100" Width="60"></iconPacks:BootstrapIcons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlSerie" Margin="590,14,30,172" Height="Auto" Width="Auto" Click="tlSerie_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF00FFD1" Offset="0"/>
+                            <GradientStop Color="#FF036F80" Offset="1"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:Typicons Kind="SortNumericallyOutline" Height="60" Width="100"></iconPacks:Typicons>
+                </mah:Tile>
+                <mah:Tile x:Name="tlObjeto" HorizontalAlignment="Left" Margin="755,165,0,0" VerticalAlignment="Top" Width="131" Height="140" Click="tlObjeto_Click">
+                    <mah:Tile.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF28DC00" Offset="0"/>
+                            <GradientStop Color="#FF09A002" Offset="0.993"/>
+                        </LinearGradientBrush>
+                    </mah:Tile.Background>
+                    <iconPacks:BootstrapIcons Kind="PersonLinesFill" Height="100" Width="60"></iconPacks:BootstrapIcons>
+                </mah:Tile>
+
+
+
+
+
+            </Grid>
+        </ScrollViewer>
+
+
+
+    </Grid>
+</mah:MetroWindow>
